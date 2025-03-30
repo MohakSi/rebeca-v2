@@ -1,0 +1,36 @@
+{
+  "artists": [
+    {
+      "name": "Avoid Rafa",
+      "img": "avoidrafa.webp"
+    },
+    {
+      "name": "Ehsaas India",
+      "img": "ehsaasIndia.webp"
+    },
+    {
+      "name": "Md. Irfan",
+      "img": "mdirfan.webp"
+    },
+    {
+      "name": "Pritam Roy",
+      "img": "pritamroy.webp"
+    },
+    {
+      "name": "Prithibi",
+      "img": "prithbi.webp"
+    },
+    {
+      "name": "Shironamhin",
+      "img": "shironamhin.webp"
+    },
+    {
+      "name": "TRAP",
+      "img": "trap.webp"
+    },
+    {
+      "name": "DJ Sunburn Coming Soon",
+      "img": "comingsoon.png"
+    }
+  ]
+}
