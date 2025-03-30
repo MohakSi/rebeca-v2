@@ -7,6 +7,7 @@ import ArtistCard from "../../components/ArtistCard/ArtistCard";
 
 import Nightbanner from "../../components/Nightbanner/Nightbanner";
 import CollageHeart from "../../components/CollageHeart/CollageHeart";
+import Artist from "client/src/assets/data/artist.json"
 
 const Home = () => {
     const artists = [
